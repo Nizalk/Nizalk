@@ -41,7 +41,7 @@
   <a href="https://www.php.net/">
     <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>
   </a>
-<a href="https://www.php.net/">
+<a href="https://www.php.net/](https://www.typescriptlang.org/">
     <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=TypeScript&logoColor=white"/>
   </a>
 </p>
