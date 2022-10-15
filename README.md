@@ -131,7 +131,7 @@
 ## 📊 Github Stats (Expand to View) 
 
 
-<details> 
+
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
@@ -142,16 +142,15 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
-</details>
 
-
+<!--
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
    <a href="https://github.com/Nizalk"><img alt="Candida's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Nizalk&custom_title=Nizalk%20Noronha's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
-</details>
+</details>-->
 
 <br/>
 
